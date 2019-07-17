@@ -576,10 +576,10 @@ li {
 	font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    letter-spacing: 5px;
+    letter-spacing: -3px;
     margin-bottom: 55px;
     color: #fff;
-    font-family: 'Oswald', sans-serif;
+    font-family: sans-serif;
 }
 
 
