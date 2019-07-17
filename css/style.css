@@ -706,7 +706,7 @@ li {
 		font-size: 12px;
 	}
 	#main-slide .carousel-indicators{
-		display: inline-block;
+		display: none;
 	}
     
     #main-slide .item .slider-content{
@@ -723,7 +723,7 @@ li {
 @media (max-width : 479px) {
     
     #main-slide .item .slider-content{
-		display: none;
+		display: inline-block;
 	}
     
     #main-slide .item {
