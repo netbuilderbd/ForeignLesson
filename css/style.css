@@ -592,7 +592,7 @@ li {
     font-weight: 300;
     line-height: 35px;
     letter-spacing: 1px;
-    margin-bottom: 55px;
+    margin-bottom: 30px;
     color: #fff;
 }
 
@@ -706,11 +706,11 @@ li {
 		font-size: 12px;
 	}
 	#main-slide .carousel-indicators{
-		display: none;
+		display: inline-block;
 	}
     
     #main-slide .item .slider-content{
-		display: none;
+		display: inline-block;
 	}
     
     #main-slide .item {
